@@ -1,3 +1,3 @@
 # expense-printable-low-spoon
 This one is low spoon way to track money.
-how it works is that you write down month if it money in or out 
+how it works is that you write down month if it money in or out which account then in simple way to understand format
